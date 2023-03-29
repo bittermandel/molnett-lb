@@ -6,13 +6,9 @@
 
 <div align="center">
 
-<!--- FIXME: Pick an emoji and name your project! --->
 # `🌻 Molnett Loadbalancer`
 
-<!--- FIXME: Write short catchy description/tagline of project --->
-**Template for creating new open source repositories that follow the Embark open source guidelines**
-
-<!--- FIXME: Update crate, repo and CI workflow names here! Remove any that are not relevant --->
+**Proxy for a modern datacenter**
 
 [![Embark](https://img.shields.io/badge/molnett%20source-blueviolet.svg)](https://molnett.se)
 [![Build status](https://github.com/bittermandel/molnett-lb/workflows/CI/badge.svg)](https://github.com/bittermandel/molnett-lb/actions)
