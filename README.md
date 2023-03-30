@@ -23,8 +23,6 @@ We welcome community contributions to this project.
 
 Please read our [Contributor Terms](CONTRIBUTING.md#contributor-terms) before you make any contributions.
 
-Any contribution intentionally submitted for inclusion in an Embark Studios project, shall comply with the Rust standard licensing model (MIT OR Apache 2.0) and therefore be dual licensed as described below, without any additional terms or conditions:
-
 ### License
 
 This contribution is dual licensed under EITHER OF
@@ -34,4 +32,4 @@ This contribution is dual licensed under EITHER OF
 
 at your option.
 
-For clarity, "your" refers to Embark or any other licensee/user of the contribution.
+For clarity, "your" refers to Molnett or any other licensee/user of the contribution.
